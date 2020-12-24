@@ -10,7 +10,7 @@
     "dotenv": "^8.2.0",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.32",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "winston": "^3.3.3"
   },
   "devDependencies": {
